@@ -16,7 +16,7 @@
 ## Installation
 
 ```bash
-npm install bento --save-dev
+npm install @ignitekit/bento --save-dev
 ```
 
 ## Quick Start
