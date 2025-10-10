@@ -1,5 +1,5 @@
 {
-  "name": "bento",
+  "name": "@ignitekit/bento",
   "version": "1.0.0",
   "description": "A custom bundler specifically designed for WordPress plugins - like Vite but for WordPress",
   "main": "index.js",
