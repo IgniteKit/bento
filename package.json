@@ -1,6 +1,6 @@
 {
   "name": "@ignitekit/bento",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A custom bundler specifically designed for WordPress plugins - like Vite but for WordPress",
   "main": "index.js",
   "bin": {
@@ -31,12 +31,13 @@
   "homepage": "https://github.com/ignitekit/bento#readme",
   "dependencies": {
     "chokidar": "^4.0.3",
-    "commander": "^14.0.1"
+    "commander": "^14.0.1",
+    "terser": "^5.44.1"
   },
   "peerDependencies": {
-    "sass": "^1.93.2",
     "@babel/core": "^7.26.0",
-    "@babel/preset-env": "^7.26.0"
+    "@babel/preset-env": "^7.26.0",
+    "sass": "^1.93.2"
   },
   "peerDependenciesMeta": {
     "sass": {
