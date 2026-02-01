@@ -23,12 +23,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ignitekit/bento.git"
+    "url": "https://github.com/IgniteKit/bento.git"
   },
   "bugs": {
-    "url": "https://github.com/ignitekit/bento/issues"
+    "url": "https://github.com/IgniteKit/bento/issues"
   },
-  "homepage": "https://github.com/ignitekit/bento#readme",
+  "homepage": "https://github.com/IgniteKit/bento#readme",
   "dependencies": {
     "chokidar": "^4.0.3",
     "commander": "^14.0.1",
