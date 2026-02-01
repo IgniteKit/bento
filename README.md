@@ -207,6 +207,15 @@ npm install sass @babel/core @babel/preset-env --save-dev
 
 Just like a bento box neatly organizes different foods in compartments, Bento bundler neatly organizes your WordPress plugin assets into admin, frontend, and shared compartments! 🍱
 
+## Releasing
+
+Versions are released manually:
+
+```bash
+npm version patch  # or minor, major
+npm publish --access public
+```
+
 ## Contributing
 
 1. Fork the repository
